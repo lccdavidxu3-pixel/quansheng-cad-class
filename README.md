@@ -4,9 +4,9 @@
 
 | 版本 | 網址 | 諮詢窗口 |
 |---|---|---|
-| 桃園版 | https://lccdavidxu3-pixel.github.io/quansheng-cad-class/ | 桃園分校 03-3471078 |
-| 中壢版 | https://lccdavidxu3-pixel.github.io/quansheng-cad-class/zhongli/ | 中壢分校 03-4271238 |
+| 中壢版 | https://lccdavidxu3-pixel.github.io/quansheng-cad-class/ | 中壢分校 03-4271238 |
+| 桃園版 | https://lccdavidxu3-pixel.github.io/quansheng-cad-class/taoyuan/ | 桃園分校 03-3471078 |
 
 ## 修改方式
 
-只改 `index.html`（桃園版），再執行 `python make_zhongli.py` 重新產生 `zhongli/index.html`。
+只改 `index.html`（中壢版），再執行 `python make_taoyuan.py` 重新產生 `taoyuan/index.html`。
